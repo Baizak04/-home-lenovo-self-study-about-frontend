@@ -1,3 +1,13 @@
+.products-item {
+    background-color: blue;
+    color: antiquewhite;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border-radius: 30px 70px;
+    /* outline: 3px solid rebeccapurple; */
+    box-shadow: #0ea110 0 0 30px 20px;
+}
+
 .products-item_title {
     margin: 10px 0;
     padding: 10px 15px;

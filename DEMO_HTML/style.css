@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+u {
+    color: aqua;
+}
+
+.browner {
+    color: yellow;
+}
+#heading {
+    border-bottom: 1px solid rgba(10, 11, 11, 0.133);
+}

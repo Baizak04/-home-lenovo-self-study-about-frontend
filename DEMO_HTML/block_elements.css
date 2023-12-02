@@ -1,0 +1,12 @@
+.products-item_title {
+    margin: 10px 0;
+    padding: 10px 15px;
+    line-height: 1;
+    border: 1px solid #000;
+    color: aqua;
+}
+
+.products-item_description {
+    border: 1px solid #f00;
+    margin-top: 10px;
+}
